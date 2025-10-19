@@ -74,6 +74,17 @@ Add search and filter options for better usability
 
 Connect with a backend (Node.js + MySQL) for data storage
 
+🔹 Author
+
+Mohamed Adhnan – Aspiring Frontend Developer
+
+Completed this project through Error Makes Academy
+
+
+📌 How to View You can view the website directly here 👉 [  ]
+
+Thank you for visiting my portfolio website.
+
 
 
 🏷️ Hashtags for GitHub / LinkedIn
