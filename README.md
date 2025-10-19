@@ -81,7 +81,7 @@ Mohamed Adhnan – Aspiring Frontend Developer
 Completed this project through Error Makes Academy
 
 
-📌 How to View You can view the website directly here 👉 [  ]
+📌 How to View You can view the website directly here 👉 [ https://adhnan26.github.io/Student-Registration-Form/ ]
 
 Thank you for visiting my portfolio website.
 
